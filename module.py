@@ -1,2 +1,0 @@
-import assignment
-assignment.main()
